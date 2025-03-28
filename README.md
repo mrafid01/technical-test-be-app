@@ -89,9 +89,7 @@ These instructions will get you a copy of the project up and running on your loc
     npm run dev # or yarn dev
     ```
 
-## API Endpoints (Example)
-
-*(You will need to define these in your application code)*
+## API Endpoints
 
 *   **POST /users:** Create a new user.
 *   **POST /tasks:** Create a new task.
