@@ -2,11 +2,6 @@
 
 This is the backend application for the technical test, built using Node.js, Prisma, and MySQL. It manages users and their tasks.
 
-## Project Structure
-
-The project is structured as follows:
-
-
 ## Technologies Used
 
 *   **Node.js:**  The runtime environment for the backend application.
