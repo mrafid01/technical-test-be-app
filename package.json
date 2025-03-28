@@ -20,8 +20,7 @@
     "express": "^4.21.2",
     "google-auth-library": "^9.15.1",
     "mysql2": "^3.14.0",
-    "prisma": "^6.5.0",
-    "zod": "^3.24.2"
+    "prisma": "^6.5.0"
   },
   "devDependencies": {
     "@types/cors": "^2.8.17",

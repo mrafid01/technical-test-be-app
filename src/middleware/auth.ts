@@ -17,7 +17,7 @@ export const verifyToken = async (req: Request, res: Response, next: NextFunctio
         });
         const payload = ticket.getPayload();
         if (payload) {
-            // Misalnya, gunakan "sub" sebagai ID unik user (konversi ke number atau simpan sebagai string)
+            // Gunakan "sub" sebagai ID unik user
             (req as any).userId = payload['sub'];
             next();
         } else {
